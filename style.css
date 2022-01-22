@@ -1,0 +1,26 @@
+body {
+    background: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cadetblue;
+    text-shadow: 1px 1px 1px rgb(20, 20, 19);
+    text-align: center;
+    top: 0;
+    left: 0;
+    margin-top: 200px;
+    font-size: 30PX;
+}
+
+#a {
+    font-size: 40px;
+    width: 100%;
+}
+
+#b {
+    font-size: 70px;
+    width: 100%;
+}
+
+#c {
+    font-size: 15px;
+    width: 100%;
+}
